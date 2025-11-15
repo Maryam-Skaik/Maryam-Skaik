@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maryam Refaa Skaik
 **Backend Developer | Automation & AI Enthusiast | Computer Science Graduate**
 
-<img src="assets/images/header.jpg" alt="Header Image" width="400" height="400"/>
+<img src="assets/images/header.jpg" alt="Header Image" width="100" height="100"/>
 
 ---
 
@@ -37,7 +37,7 @@ REST APIs | Event Loop Optimization | Web Automation | JWT Authentication | MVC 
 ## 📂 Featured Projects
 
 ### 🔹 Gaza Madad Flow 🌍
-<img src="assets/images/GMF.jpg" alt="Project Banner" width="400" height="400"/>
+<img src="assets/images/GMF.jpg" alt="Project Banner" width="100" height="100"/>
 
 A **Laravel-based web automation system** for humanitarian aid registration in Gaza.  
 
@@ -54,7 +54,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 ---
 
 ### 🔹 Volunteer Coordination Web App
-<img src="assets/images/volunteer.jpg" alt="Project Banner" width="400" height="400"/>
+<img src="assets/images/volunteer.jpg" alt="Project Banner" width="100" height="100"/>
 
 **Laravel + React web app** to manage volunteers, tasks, and work locations.  
 
@@ -70,7 +70,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 ---
 
 ### 🔹 Alternative Medicine API
-<img src="assets/images/alter.jpg" alt="Project Banner" width="400" height="400"/>
+<img src="assets/images/alter.jpg" alt="Project Banner" width="100" height="100"/>
 
 **Node.js RESTful API** for managing drugs, pharmacies, and alternative medicines.  
 
