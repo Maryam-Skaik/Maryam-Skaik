@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maryam Refaa Skaik
-<img src="assets/icons/header.ico" alt="Header Image" width="100" height="100"/> **Backend Developer | Automation & AI Enthusiast | Computer Science Graduate**
+<img src="assets/icons/header.ico" alt="Header Image" width="30" height="30"/> **Backend Developer | Automation & AI Enthusiast | Computer Science Graduate**
 
 ---
 
@@ -34,7 +34,7 @@ REST APIs | Event Loop Optimization | Web Automation | JWT Authentication | MVC 
 
 ## 📂 Featured Projects
 
-### <img src="assets/icons/GMF.ico" alt="Project Banner" width="100" height="100"/> Gaza Madad Flow 🌍
+### <img src="assets/icons/GMF.ico" alt="Project Banner" width="30" height="30"/> Gaza Madad Flow 🌍
 
 A **Laravel-based web automation system** for humanitarian aid registration in Gaza.  
 
@@ -50,7 +50,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 
 ---
 
-### <img src="assets/icons/volunteer.ico" alt="Project Banner" width="100" height="100"/> Volunteer Coordination Web App
+### <img src="assets/icons/volunteer.ico" alt="Project Banner" width="30" height="30"/> Volunteer Coordination Web App
 
 **Laravel + React web app** to manage volunteers, tasks, and work locations.  
 
@@ -65,7 +65,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 
 ---
 
-### <img src="assets/icons/alter.ico" alt="Project Banner" width="100" height="100"/> Alternative Medicine API
+### <img src="assets/icons/alter.ico" alt="Project Banner" width="30" height="30"/> Alternative Medicine API
 
 **Node.js RESTful API** for managing drugs, pharmacies, and alternative medicines.  
 
