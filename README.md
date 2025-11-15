@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maryam Refaa Skaik
-<img src="assets/icons/header.ico" alt="Header Image" width="30" height="30"/> **Backend Developer | Automation & AI Enthusiast | Computer Science Graduate**
+**💻 Backend Developer | 🤖 Automation & AI Enthusiast | 🎓 Computer Science Graduate**
 
 ---
 
@@ -20,7 +20,7 @@ I enjoy **automation, API development**, and solving real-world problems with sc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🛠️ Tools & Platforms
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -34,7 +34,7 @@ REST APIs | Event Loop Optimization | Web Automation | JWT Authentication | MVC 
 
 ## 📂 Featured Projects
 
-### <img src="assets/icons/GMF.ico" alt="Project Banner" width="30" height="30"/> Gaza Madad Flow 🌍
+### 🌍 Gaza Madad Flow 
 
 A **Laravel-based web automation system** for humanitarian aid registration in Gaza.  
 
@@ -50,7 +50,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 
 ---
 
-### <img src="assets/icons/volunteer.ico" alt="Project Banner" width="30" height="30"/> Volunteer Coordination Web App
+### 🤝 Volunteer Coordination Web App
 
 **Laravel + React web app** to manage volunteers, tasks, and work locations.  
 
@@ -65,7 +65,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 
 ---
 
-### <img src="assets/icons/alter.ico" alt="Project Banner" width="30" height="30"/> Alternative Medicine API
+### 🌿 Alternative Medicine API
 
 **Node.js RESTful API** for managing drugs, pharmacies, and alternative medicines.  
 
