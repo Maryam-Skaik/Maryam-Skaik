@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maryam Refaa Skaik
-**💻 Backend Developer | 🤖 Automation & AI Enthusiast | 🎓 Computer Science Graduate**
+**💻 Backend Developer | 🤖 AI & Automation Enthusiast | 🎓 CS Graduate | 👩‍🏫 Teaching Assistant (Data Structure & Algorithms)**
 
 ---
 
