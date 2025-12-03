@@ -82,7 +82,7 @@ A **Laravel-based web automation system** for humanitarian aid registration in G
 ---
 
 ## 📈 GitHub Stats
-![Maryam's GitHub Stats](https://streak-stats.demolab.com/?user=Maryam-Skaik&theme=radical)
+![Maryam's GitHub Stats](https://streak-stats.demolab.com/?user=Maryam-Skaik&theme=radical&hide_border=true)
 
 ---
 
