@@ -7,8 +7,6 @@
 I am a **fresh Computer Science graduate** passionate about building robust backend systems using **Laravel** and **Node.js**.  
 I enjoy **automation, API development**, and solving real-world problems with scalable solutions.  
 
-**Currently learning:** Advanced Event Loop Optimization in Node.js & Modern Automation Workflows  
-
 ---
 
 ## 🛠️ Skills
