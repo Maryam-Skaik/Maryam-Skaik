@@ -2,29 +2,17 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Maryam-Skaik
-
-          # Animation speed (lower = faster)
-          animation_speed: 3
-
-          # Transparent background
-          background: transparent
-
-          # Snake & grid colors
-          snake_color: "#F75C7E"
-          grid_color: "#30363d"
-          grid_color_dark: "#161b22"
-
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
