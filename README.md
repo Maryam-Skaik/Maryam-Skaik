@@ -1,15 +1,28 @@
-# 👋 Hi, I'm Maryam Refaa Skaik
-**💻 Backend Developer | 🤖 AI & Automation Enthusiast | 🎓 CS Graduate | 👩‍🏫 Teaching Assistant (Data Structure & Algorithms)**
+<h1 align="center">
+  Hi, I'm Maryam Skaik 👋
+</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Laravel+%26+Node.js+Specialist;Automation+%26+API+Builder;Teaching+Assistant+%7C+DS+%26+Algorithms&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 ---
 
-## 🌱 About Me
-I am a **fresh Computer Science graduate** passionate about building robust backend systems using **Laravel** and **Node.js**.  
-I enjoy **automation, API development**, and solving real-world problems with scalable solutions.  
+## 👩‍💻 About Me
+
+- 🎓 **Computer Science Graduate**
+- 💻 **Backend Developer** (Laravel, Node.js)
+- 🤖 Passionate about **Automation & AI-powered systems**
+- 👩‍🏫 **Teaching Assistant** for **Data Structures & Algorithms**
+- 🌍 Interested in building **impactful systems under real-world constraints**
+
+I focus on writing **clean, scalable backend code**, designing **RESTful APIs**, and automating workflows that save time and reduce human error.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,65 +38,88 @@ I enjoy **automation, API development**, and solving real-world problems with sc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
-### 🌐 Others
-REST APIs | Event Loop Optimization | Web Automation | JWT Authentication | MVC Architecture
+### 🌐 Backend Concepts
+REST APIs • MVC Architecture • JWT Authentication • Web Automation • Event Loop Optimization
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🌍 Gaza Madad Flow 
+### 🌍 Gaza Madad Flow
+**Laravel-based automation system** for humanitarian aid registration.
 
-A **Laravel-based web automation system** for humanitarian aid registration in Gaza.  
+**Impact**
+- Automates multi-platform aid submissions  
+- Reduces manual work by **~80%**  
+- Designed to work under **unstable internet conditions**
 
-**Impact:**  
-- Automates multi-platform aid submission  
-- Reduces manual work by **80%**  
-- Works under unstable internet conditions  
-
-**Tech Stack:** Laravel, PostgreSQL, n8n, Google Sheets, Render, TailwindCSS  
-
-**Links:**  
-[🎥 Demo Video](https://drive.google.com/file/d/1ZreM2pKKVkd-3sbBusxV4m_aCDzeRyRs/view) | [📁 Repository](https://github.com/Maryam-Skaik/GazaMadadFLow)
+**Tech:** Laravel, PostgreSQL, n8n, Google Sheets, TailwindCSS, Render  
+🔗 [Repository](https://github.com/Maryam-Skaik/GazaMadadFLow) | 🎥 [Demo](https://drive.google.com/file/d/1ZreM2pKKVkd-3sbBusxV4m_aCDzeRyRs/view)
 
 ---
 
-### 🤝 Volunteer Coordination Web App
+### 🤝 Volunteer Coordination System
+**Laravel + React** platform for managing volunteers and tasks.
 
-**Laravel + React web app** to manage volunteers, tasks, and work locations.  
+**Features**
+- Role-based admin system  
+- Task & location assignment  
+- Modern frontend with React + Vite
 
-**Features:**  
-- Admin authentication & CRUD operations  
-- Assign volunteers to tasks & locations  
-- Frontend with React, Vite, TailwindCSS, CoreUI  
-
-**Tech Stack:** Laravel, MySQL, React, TailwindCSS, CoreUI  
-
-[📁 Repository](https://github.com/Maryam-Skaik/volunteer-coordination-system)
+**Tech:** Laravel, MySQL, React, TailwindCSS  
+🔗 [Repository](https://github.com/Maryam-Skaik/volunteer-coordination-system)
 
 ---
 
 ### 🌿 Alternative Medicine API
+**Node.js REST API** for managing drugs and alternatives.
 
-**Node.js RESTful API** for managing drugs, pharmacies, and alternative medicines.  
+**Features**
+- JWT-based authentication  
+- MongoDB with validation  
+- Smart mapping for unavailable drugs
 
-**Features:**  
-- JWT authentication for admin  
-- CRUD endpoints for drugs & pharmacies  
-- Maps alternative medicines for unavailable drugs  
-- MongoDB integration with validation  
-
-**Tech Stack:** Node.js, Express.js, MongoDB, JWT, dotenv, bcryptjs  
-
-[📁 Repository](https://github.com/Maryam-Skaik/alternative-medicine-api)
+**Tech:** Node.js, Express, MongoDB, JWT  
+🔗 [Repository](https://github.com/Maryam-Skaik/alternative-medicine-api)
 
 ---
 
-## 📈 GitHub Stats
-![Maryam's GitHub Stats](https://streak-stats.demolab.com/?user=Maryam-Skaik&theme=radical&hide_border=true)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Maryam-Skaik&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maryam-Skaik&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam-Skaik&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-skaik-b992bb291/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamskaik2003@gmail.com)
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maryam-skaik-b992bb291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mariamskaik2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>“Code is most powerful when it solves real problems.”</i>
+</p>
