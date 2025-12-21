@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi, I'm Maryam Skaik 👋
+  Hi, I'm Maryam Skaik
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 </h1>
 
 <p align="center">
@@ -39,7 +40,7 @@ I focus on writing **clean, scalable backend code**, designing **RESTful APIs**,
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ### 🌐 Backend Concepts
-REST APIs • MVC Architecture • JWT Authentication • Web Automation • Event Loop Optimization
+RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web Automation • Node.js Event Loop & Async Patterns
 
 ---
 
@@ -51,10 +52,10 @@ REST APIs • MVC Architecture • JWT Authentication • Web Automation • Eve
 **Impact**
 - Automates multi-platform aid submissions  
 - Reduces manual work by **~80%**  
-- Designed to work under **unstable internet conditions**
+- Designed for **unstable internet conditions**
 
 **Tech:** Laravel, PostgreSQL, n8n, Google Sheets, TailwindCSS, Render  
-🔗 [Repository](https://github.com/Maryam-Skaik/GazaMadadFLow) | 🎥 [Demo](https://drive.google.com/file/d/1ZreM2pKKVkd-3sbBusxV4m_aCDzeRyRs/view)
+🔗 [Repository](https://github.com/Maryam-Skaik/GazaMadadFLow)
 
 ---
 
@@ -75,11 +76,11 @@ REST APIs • MVC Architecture • JWT Authentication • Web Automation • Eve
 **Node.js REST API** for managing drugs and alternatives.
 
 **Features**
-- JWT-based authentication  
-- MongoDB with validation  
+- JWT authentication  
+- MongoDB validation  
 - Smart mapping for unavailable drugs
 
-**Tech:** Node.js, Express, MongoDB, JWT  
+**Tech:** Node.js, Express, MongoDB  
 🔗 [Repository](https://github.com/Maryam-Skaik/alternative-medicine-api)
 
 ---
@@ -102,12 +103,12 @@ REST APIs • MVC Architecture • JWT Authentication • Web Automation • Eve
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation"
-         src="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg"
-         style="max-width: 100%;" />
+      srcset="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg"
+      alt="github contribution grid snake animation">
   </picture>
 </p>
 
@@ -127,5 +128,5 @@ REST APIs • MVC Architecture • JWT Authentication • Web Automation • Eve
 ---
 
 <p align="center">
-  💡 <i>“Code is most powerful when it solves real problems.”</i>
+  <i>💡 “Code is most powerful when it solves real problems.”</i>
 </p>
