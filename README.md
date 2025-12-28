@@ -88,7 +88,7 @@ RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maryam-Skaik&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com/?user=Maryam-Skaik&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
