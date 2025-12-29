@@ -89,7 +89,6 @@ RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web A
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats-lilac-eta-23.vercel.app/api?username=Maryam-Skaik&show_icons=true&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
