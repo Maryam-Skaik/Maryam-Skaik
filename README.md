@@ -1,7 +1,4 @@
-<h1 align="center">
-  Hi, I'm Maryam Skaik
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Maryam%20Skaik%20💜✨&fontSize=38&fontColor=ffffff&fontAlignY=35&color=gradient&customColorList=13,14,18"/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
