@@ -13,10 +13,10 @@
 - 🎓 **Computer Science Graduate**
 - 💻 **Backend Developer** (Laravel, Node.js)
 - 🤖 Passionate about **Automation & AI-powered systems**
-- 👩‍🏫 **Teaching Assistant** for **Data Structures & Algorithms**
-- 🌍 Interested in building **impactful systems under real-world constraints**
+- 👩‍🏫 **Teaching Assistant — Data Structures & Algorithms**
+- 🌍 Focused on building **impactful systems under real-world constraints**
 
-I focus on writing **clean, scalable backend code**, designing **RESTful APIs**, and automating workflows that save time and reduce human error.
+I design scalable backend systems, build RESTful APIs, and automate workflows that reduce manual effort and improve reliability.
 
 ---
 
@@ -37,55 +37,60 @@ I focus on writing **clean, scalable backend code**, designing **RESTful APIs**,
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ### 🌐 Backend Concepts
-RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web Automation • Node.js Event Loop & Async Patterns
+RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web Automation • Async & Event-Driven Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌍 Gaza Madad Flow
-**Laravel-based automation system** for humanitarian aid registration.
+Laravel-based automation system for humanitarian aid registration.
 
 **Impact**
 - Automates multi-platform aid submissions  
-- Reduces manual work by **~80%**  
-- Designed for **unstable internet conditions**
+- Reduces manual work by ~80%  
+- Designed for unstable internet conditions  
 
 **Tech:** Laravel, PostgreSQL, n8n, Google Sheets, TailwindCSS, Render  
-🔗 [Repository](https://github.com/Maryam-Skaik/GazaMadadFLow)
+🔗 https://github.com/Maryam-Skaik/GazaMadadFLow
 
 ---
 
 ### 🤝 Volunteer Coordination System
-**Laravel + React** platform for managing volunteers and tasks.
+Laravel + React platform for volunteer and task management.
 
 **Features**
-- Role-based admin system  
+- Role-based access control  
 - Task & location assignment  
-- Modern frontend with React + Vite
+- Modern frontend (React + Vite)  
 
 **Tech:** Laravel, MySQL, React, TailwindCSS  
-🔗 [Repository](https://github.com/Maryam-Skaik/volunteer-coordination-system)
+🔗 https://github.com/Maryam-Skaik/volunteer-coordination-system
 
 ---
 
 ### 🌿 Alternative Medicine API
-**Node.js REST API** for managing drugs and alternatives.
+Node.js REST API for managing drugs and alternatives.
 
 **Features**
 - JWT authentication  
 - MongoDB validation  
-- Smart mapping for unavailable drugs
+- Smart drug alternative mapping  
 
 **Tech:** Node.js, Express, MongoDB  
-🔗 [Repository](https://github.com/Maryam-Skaik/alternative-medicine-api)
+🔗 https://github.com/Maryam-Skaik/alternative-medicine-api
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=Maryam-Skaik&theme=dracula&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=Maryam-Skaik&layout=compact&theme=dracula&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -120,5 +125,5 @@ RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web A
 ---
 
 <p align="center">
-  <i>💡 “Code is most powerful when it solves real problems.”</i>
+  <i>Code is most powerful when it solves real problems.</i>
 </p>
