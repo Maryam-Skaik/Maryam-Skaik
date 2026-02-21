@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maryam-Skaik.Maryam-Skaik&left_color=282A36&right_color=BD93F9&left_text=Visitors" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
