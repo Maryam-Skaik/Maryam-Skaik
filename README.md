@@ -4,10 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Laravel+%26+Node.js+Specialist;Automation+%26+API+Builder;Teaching+Assistant+%7C+DS+%26+Algorithms&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
   </a>
+
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maryam-Skaik.Maryam-Skaik&left_color=282A36&right_color=BD93F9&left_text=Visitors" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white&labelColor=E9D5FF&color=F3E8FF&url=https%3A%2F%2Fhits.dwyl.com%2FMaryam-Skaik%2FMaryam-Skaik.json" />
 </p>
 
 ---
