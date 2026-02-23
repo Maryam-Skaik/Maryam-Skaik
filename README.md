@@ -8,10 +8,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-123-purple?style=for-the-badge&labelColor=D8B4F6&color=9F7AEA" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
