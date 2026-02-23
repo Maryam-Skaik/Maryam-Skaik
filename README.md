@@ -1,9 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Maryam%20Skaik%20💜✨&fontSize=38&fontColor=ffffff&fontAlignY=35&color=gradient&customColorList=13,14,18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Maryam%20Skaik%20💜✨&fontSize=38&fontColor=ffffff&fontAlignY=35&color=gradient&customColorList=D8B4F6,9F7AEA,7C3AED"/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Laravel+%26+Node.js+Specialist;Automation+%26+API+Builder;Teaching+Assistant+%7C+DS+%26+Algorithms&font=Fira%20Code&center=true&width=700&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Laravel+%26+Node.js+Specialist;Automation+%26+API+Builder;Teaching+Assistant+%7C+DS+%26+Algorithms&font=Fira%20Code&center=true&width=700&height=50&color=9F7AEA&vCenter=true&pause=1000&size=22" />
   </a>
+</p>
 
 </p>
 
@@ -94,9 +95,7 @@ Node.js REST API for managing drugs and alternatives.
   <img height="180em" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=Maryam-Skaik&layout=compact&theme=dracula&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=dracula&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=dracula&hide_border=true" /> </p>
 
 ---
 
