@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?style=for-the-badge&label=Profile%20Views&logo=github&logoColor=white&labelColor=E9D5FF&color=F3E8FF&url=https%3A%2F%2Fhits.dwyl.com%2FMaryam-Skaik%2FMaryam-Skaik.json" />
+  <img src="https://img.shields.io/badge/Profile%20Views-123-purple?style=for-the-badge&labelColor=D8B4F6&color=9F7AEA" />
 </p>
 
 ---
