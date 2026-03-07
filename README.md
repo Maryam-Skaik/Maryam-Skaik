@@ -2,10 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Laravel+%26+Node.js+Specialist;Automation+%26+API+Builder;Teaching+Assistant+%7C+DS+%26+Algorithms&font=Fira%20Code&center=true&width=700&height=50&color=9F7AEA&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Laravel+%26+Node.js+Specialist;Teaching+Assistant+%7C+Data+Structures+%26+Algorithms;Learning+Data+Science+%26+Machine+Learning;Automation+%26+API+Builder&font=Fira%20Code&center=true&width=700&height=50&color=9F7AEA&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
+<p align="center">
+🌍 Gaza, Palestine 🇵🇸
 </p>
 
 ---
@@ -19,6 +21,28 @@
 - 🌍 Focused on building **impactful systems under real-world constraints**
 
 I design scalable backend systems, build RESTful APIs, and automate workflows that reduce manual effort and improve reliability.
+
+---
+
+## 🎯 Current Focus
+
+- 👩‍🏫 Completed my **first semester as a Data Structures & Algorithms Teaching Assistant**
+- 📚 Preparing to teach **Design Patterns** next semester
+- 🤖 Currently studying **Data Science & Machine Learning**
+- 🎓 Learning with **Axsos Academy**
+- 🧠 Strengthening **Algorithms, Data Analysis, and Problem Solving**
+
+---
+
+## 👩‍🏫 Teaching
+
+**Teaching Assistant — Data Structures & Algorithms (Java)**
+
+- Guided students through **Arrays, Stacks, Queues, and Linked Lists**
+- Designed **lab exercises and coding activities**
+- Helped students strengthen **problem-solving and algorithmic thinking**
+
+📚 **Next Semester:** Teaching **Design Patterns**
 
 ---
 
@@ -40,6 +64,17 @@ I design scalable backend systems, build RESTful APIs, and automate workflows th
 
 ### 🌐 Backend Concepts
 RESTful API Design • MVC & Clean Architecture • JWT Authentication • Web Automation • Async & Event-Driven Architecture
+
+---
+
+## 📊 Data Science & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+Learning **data analysis, data manipulation, and machine learning fundamentals**.
 
 ---
 
