@@ -144,6 +144,8 @@ REST APIs • MVC Architecture • Databases • Automation • Clean Architectu
   <img height="180em" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=Maryam-Skaik&layout=compact&theme=dracula&count_private=true" />
 </p>
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=dracula&hide_border=true" /> </p>
+
 ---
 
 # 🐍 Contribution Snake
