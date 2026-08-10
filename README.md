@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+Machine+Learning+Enthusiast;Teaching+Assistant+%7C+DSA+%26+Design+Patterns;Python+%7C+Machine+Learning+%7C+Data+Analysis;Backend+Engineering+Background;Problem+Solver+%26+Continuous+Learner&font=Fira%20Code&center=true&width=780&height=50&color=9F7AEA&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+Intern;Data+Science+%26+Machine+Learning;Python+%7C+SQL+%7C+Predictive+Modeling;Time+Series+Forecasting;Teaching+Assistant+%7C+DSA+%26+Design+Patterns&font=Fira%20Code&center=true&width=780&height=50&color=9F7AEA&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -15,133 +15,125 @@
 # 👩‍💻 About Me
 
 * 🎓 **Computer Science Graduate**
+* 📊 **Data Analyst Intern at DAWNSTRIKER**
 * 👩‍🏫 **Teaching Assistant — Data Structures & Algorithms & Design Patterns**
-* 📊 Passionate about **Data Science, Machine Learning, and Data Analysis**
-* 🧠 Strong interest in **problem solving, algorithms, and intelligent systems**
+* 🤖 Focused on **Data Science, Machine Learning, and Time Series Analysis**
 * 💻 Backend engineering background with **Laravel & Node.js**
 
-I enjoy working with data to uncover insights, solve real-world problems, and build intelligent solutions using analytical and machine learning approaches.
+I enjoy working with data to discover insights, build predictive models, and develop practical data-driven solutions.
 
-My experience includes data preprocessing, exploratory data analysis (EDA), feature engineering, data visualization, model evaluation, and machine learning workflows using Python and its data science ecosystem.
+My experience includes data preprocessing, exploratory data analysis (EDA), feature engineering, data visualization, machine learning workflows, and time series forecasting using Python and SQL.
 
-Through teaching and software engineering, I developed strong analytical thinking, structured problem solving, and maintainable coding practices that now support my growth in Data Science and Machine Learning.
+Through academic teaching and software engineering experience, I developed strong analytical thinking, problem-solving skills, and structured development practices that support my growth in Data Science and Machine Learning.
 
 ---
 
 # 🎯 Current Focus
 
-* 🤖 Building practical skills in **Machine Learning & Data Science**
-* 📊 Strengthening **EDA, Feature Engineering, and Model Evaluation**
-* 🐍 Working with Python data science libraries and ML workflows
-* 👩‍🏫 Teaching **Data Structures & Algorithms** and **Design Patterns**
-* 🧠 Improving problem-solving and analytical thinking through hands-on projects
+* 📊 Data Analysis and Machine Learning workflows
+* 📈 Time Series Forecasting using ARIMA and SARIMA models
+* 🤖 Machine Learning model development and evaluation
+* 🧠 Exploring Deep Learning fundamentals with TensorFlow and Keras
+* ⚙️ Building automated and structured data workflows
 
 ---
 
-# 👩‍🏫 Teaching
+# 👩‍🏫 Teaching Experience
 
 ## Teaching Assistant — Data Structures & Algorithms & Design Patterns
 
 * Teaching core data structures and algorithmic problem solving using Java
 * Explaining OOP principles and software design concepts
-* Guiding students through practical coding exercises and implementation tasks
-* Preparing structured labs, activities, and technical examples
-* Helping students strengthen analytical thinking and coding skills
+* Guiding students through coding exercises and implementation tasks
+* Preparing structured labs and technical examples
 
 ---
 
 # 📊 Data Science & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🔍 Areas of Interest
+## Areas of Interest
 
-* Machine Learning
 * Data Analysis & Visualization
+* Machine Learning
 * Predictive Modeling
+* Time Series Forecasting
 * Feature Engineering
 * Exploratory Data Analysis (EDA)
-* Intelligent Systems
+* Artificial Neural Networks
 
 ---
 
-# 🚀 Featured Machine Learning Project
+# 🚀 Featured Data Science Projects
 
-## 🏦 Bank Marketing Subscription Prediction
+## 🤖 ChatGPT Google Trends Forecasting
 
-Machine Learning pipeline for predicting customer subscription success in bank marketing campaigns using classification models and preprocessing workflows.
+Time series forecasting project analyzing Google Trends data to predict future public interest in ChatGPT.
 
 ### Highlights
 
-* Performed data preprocessing and feature engineering
-* Built and evaluated classification models
-* Worked with imbalanced data and threshold tuning
-* Focused on recall and model evaluation metrics
-* Applied full ML workflow from EDA to prediction
+* Collected and analyzed weekly Google Trends data
+* Performed stationarity testing using ADF
+* Applied ACF/PACF analysis and differencing
+* Built ARIMA, SARIMA, and Auto ARIMA models
+* Evaluated forecasting performance using MAE, RMSE, and MAPE
 
-### Technologies
+🔗 https://github.com/Maryam-Skaik/chatgpt-google-trends-forecasting
 
-Python • Pandas • Scikit-Learn • Matplotlib • Machine Learning
 
-🔗 https://github.com/Maryam-Skaik/bank-marketing-subscription-prediction
+---
+
+## 🧠 Adult Census Income Prediction
+
+Artificial Neural Network project for predicting income categories using demographic and employment data.
+
+### Highlights
+
+* Built ANN models using TensorFlow and Keras
+* Applied preprocessing pipelines and feature scaling
+* Used Dropout and EarlyStopping for regularization
+* Tuned hyperparameters using KerasTuner
+
+🔗 https://github.com/Maryam-Skaik/adult-income-prediction-ann
+
+---
+
+# 🌍 Featured Software Project
+
+## Gaza Madad Flow
+
+Humanitarian data automation and synchronization platform.
+
+### Impact
+
+* Automated data collection and synchronization workflows
+* Reduced manual data entry by ~80%
+* Built for challenging connectivity environments
+
+### Tech Stack
+
+Laravel • PostgreSQL • n8n • Google Sheets API
+
+🔗 https://github.com/Maryam-Skaik/GazaMadadFlow
 
 ---
 
 # 🛠️ Software Engineering Background
 
-## 💻 Technologies
+## Technologies
 
-![Laravel](https://img.shields.io/badge/Laravel-FC1F1F?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FC1F1F?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## ⚙️ Concepts
-
-RESTful APIs • MVC Architecture • JWT Authentication • Databases • Automation • Clean Architecture
-
----
-
-# 🚀 Featured Software Projects
-
-## 🌍 Gaza Madad Flow
-
-Laravel-based automation system for humanitarian aid registration.
-
-### Impact
-
-* Automates multi-platform aid submissions
-* Reduces manual work by ~80%
-* Designed for unstable internet conditions
-
-### Tech Stack
-
-Laravel • PostgreSQL • n8n • Google Sheets • TailwindCSS • Render
-
-🔗 https://github.com/Maryam-Skaik/GazaMadadFLow
-
----
-
-## 🤝 Volunteer Coordination System
-
-Laravel + React platform for volunteer and task management.
-
-### Features
-
-* Role-based access control
-* Task & location assignment
-* Modern frontend with React + Vite
-
-### Tech Stack
-
-Laravel • MySQL • React • TailwindCSS
-
-🔗 https://github.com/Maryam-Skaik/volunteer-coordination-system
+REST APIs • MVC Architecture • Databases • Automation • Clean Architecture
 
 ---
 
@@ -150,10 +142,6 @@ Laravel • MySQL • React • TailwindCSS
 <p align="center">
   <img height="180em" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=Maryam-Skaik&theme=dracula&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=Maryam-Skaik&layout=compact&theme=dracula&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam-Skaik&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -166,9 +154,7 @@ Laravel • MySQL • React • TailwindCSS
       srcset="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg">
-    <img
-      src="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg"
-      alt="github contribution grid snake animation">
+    <img src="https://raw.githubusercontent.com/Maryam-Skaik/Maryam-Skaik/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -189,5 +175,5 @@ Laravel • MySQL • React • TailwindCSS
 ---
 
 <p align="center">
-  <i>Turning data, algorithms, and software into impactful solutions.</i>
+  <i>Turning data, algorithms, and software into practical solutions.</i>
 </p>
